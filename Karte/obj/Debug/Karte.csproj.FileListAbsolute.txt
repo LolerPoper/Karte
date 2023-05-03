@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\bin\Debug\Karte.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\bin\Debug\Karte.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\bin\Debug\Karte.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\obj\Debug\Karte.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\obj\Debug\Karte.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\obj\Debug\Karte.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\obj\Debug\Karte.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Karte\obj\Debug\Karte.pdb
